@@ -1,14 +1,21 @@
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
-  {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
-  {% if page.sidebar %}
-    {% for s in page.sidebar %}
-      {% if s.image %}
-        <img src= "{{ s.image }}" alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
-      {% endif %}
-      {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
-      {% if s.text %}{{ s.text | markdownify }}{% endif %}
-    {% endfor %}
-  {% endif %}
+    <div class="profile_box">
+      <div class="author__avatar">
+        <img src="{{ site.author.avatar | relative_url }}" alt="Avatar">
+      </div>
+      <div class="author__content">
+        <h3 class="author__name">{{ site.author.name }}</h3>
+        <p class="author__bio">{{ site.author.bio }}</p>
+      </div>
+      <div class="author__urls-wrapper">
+        <ul class="author__urls">
+          <li>{{ site.author.location }}</li>
+          <li>{{ site.author.email }}</li>
+          <li>{{ site.author.tel }}</li>
+          <li><a href="{{ site.author.orcid }}">ORCID</a></li>
+        </ul>
+      </div>
+    </div>
   </div>
 {% endif %}
