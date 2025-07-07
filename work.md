@@ -7,7 +7,7 @@ title: "Work & Internship"
 
 - Research Assistant  
   Department of Computing, HKPolyU (07/2024 - 10/2025)  
-  Modeling and scene construction for virtual environments, UI prototype design, literature collection, and research development.
+  Working with Prof. Li Chen Richard on modeling and scene construction for virtual environments, UI prototype design, literature collection, and research development.
 
 - Virtual Intern  
   Australian Research Centre for Interactive and Virtual Environments (IVE) (10/2024 - 03/2025)  
