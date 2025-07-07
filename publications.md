@@ -1,9 +1,14 @@
 ---
-permalink: /publications/
+layout: default
 title: "Publications & Research"
+permalink: /publications/
+author_profile: true
 ---
 
 # Publications & Research
+
+- Wang, Y., & Chen, R. (2023). *Virtual Reality and Urban Culture Restoration*. Journal of Urban Technology, 30(2), 123-135.
+- Wang, Y. (2022). *XR in Education: A Review*. Proceedings of the International Conference on Education and Technology, 45-52.
 
 - Yufei Lu; Ye Jia; Guang Chen; Yao Wang; Peter H. F. Ng; Laura Zhou; Qing Li; Chen Li  
   "Towards Effective Collaborative Learning in Edu-Metaverse: A Study on Learners' Anxiety, Perception, and Behaviour." Learning Technologies and Systems (ICWL 2024)

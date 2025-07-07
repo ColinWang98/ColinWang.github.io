@@ -1,9 +1,16 @@
 ---
-permalink: /education/
+layout: default
 title: "Education"
+permalink: /education/
+author_profile: true
 ---
 
 # Education
+
+- **The Hong Kong Polytechnic University** (2021-2022)  
+  MSc in Sustainable Urban Development
+- **Hebei University** (2017-2021)  
+  BEng in Urban and Rural Planning
 
 - **09/2023 - 10/2024**  
   MSc in Sustainable Urban Development  

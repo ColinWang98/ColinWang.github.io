@@ -1,6 +1,8 @@
 ---
-permalink: /projects/
+layout: default
 title: "Projects"
+permalink: /projects/
+author_profile: true
 ---
 
 # Projects
@@ -51,4 +53,7 @@ The project explores how the Metaverse, built upon virtual reality and augmented
 Digital regeneration and activation of Taihang Murals, promoting local culture through technology.
 
 ## Yuanqu Village Revitalization
-Participated in holistic planning and design for rural revitalization and heritage conservation. 
+Participated in holistic planning and design for rural revitalization and heritage conservation.
+
+## Farming Therapy UI Design
+Design and implementation of a user interface for farming therapy. 

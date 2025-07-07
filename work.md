@@ -1,9 +1,15 @@
 ---
-permalink: /work/
+layout: default
 title: "Work & Internship"
+permalink: /work/
+author_profile: true
 ---
 
 # Work & Internship Experience
+
+- Research Assistant, PolyU (2022-Now)
+- Intern, Urban Planning Institute (2021)
+- Intern, City Design Studio (2020)
 
 - Research Assistant  
   Department of Computing, HKPolyU (07/2024 - 10/2025)  

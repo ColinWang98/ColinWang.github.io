@@ -1,12 +1,14 @@
 ---
-permalink: /others/
+layout: default
 title: "Others"
+permalink: /others/
+author_profile: true
 ---
 
 # Others
 
 ## Photography
-- Contributor to tuchong.com, an online photography community.
+Contributor to [tuchong.com](https://tuchong.com), an online photography community.
 
 ![](photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__MsgID_7994699281315455133.jpg)
 ![](photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__MsgID_1308804992215080114.jpg)
