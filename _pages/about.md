@@ -105,34 +105,33 @@ redirect_from:
 ### Photography
 - Contributor to tuchong.com, an online photography community.  
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+![](photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__MsgID_7994699281315455133.jpg)
+![](photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__MsgID_1308804992215080114.jpg)
+![](photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__MsgID_184339658325647911.jpg)
+![](photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__MsgID_2317430525075488579.jpg)
+![](photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__MsgID_7242583703660098693.jpg)
+![](photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__MsgID_4988058886494289133.jpg)
+![](photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__MsgID_6650566866069395845.jpg)
+![](photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__MsgID_6407153397963667357.jpg)
+![](photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__MsgID_933850398220518016.jpg)
+![](photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__MsgID_2743178824102654714.jpg)
+![](photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__MsgID_3468187016024169457.jpg)
+![](photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__MsgID_7257085827032321980.jpg)
+![](photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__MsgID_5785341096327780514.jpg)
+![](photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__MsgID_5074320862026472653.jpg)
+![](photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__MsgID_8126493931685310481.jpg)
+![](photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__MsgID_998521490288871174.jpg)
+![](photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__MsgID_6096206553986512240.jpg)
+![](photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__MsgID_7844656235660459685.jpg)
+![](photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__MsgID_6994475612110803787.jpg)
+![](photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__MsgID_8816015308852747640.jpg)
+![](photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__MsgID_7686306614813480744.jpg)
+![](photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__MsgID_7823065969219672388.jpg)
+![](photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__MsgID_1606954075453892254.jpg)
+![](photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__MsgID_6310413858524708123.jpg)
 
-![Photo 1](../photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=7994699281315455133&skey=@crypt_c7361d07_6a7912a03b2a56523da2762bcf889b03&mmweb_appid=wx_webfilehelper.jpg)
-![Photo 2](../photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=1308804992215080114&skey=@crypt_c7361d07_6a7912a03b2a56523da2762bcf889b03&mmweb_appid=wx_webfilehelper.jpg)
-![Photo 3](../photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=184339658325647911&skey=@crypt_c7361d07_6a7912a03b2a56523da2762bcf889b03&mmweb_appid=wx_webfilehelper.jpg)
-![Photo 4](../photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=2317430525075488579&skey=@crypt_c7361d07_6a7912a03b2a56523da2762bcf889b03&mmweb_appid=wx_webfilehelper.jpg)
-![Photo 5](../photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=7242583703660098693&skey=@crypt_c7361d07_6a7912a03b2a56523da2762bcf889b03&mmweb_appid=wx_webfilehelper.jpg)
-![Photo 6](../photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=4988058886494289133&skey=@crypt_c7361d07_6a7912a03b2a56523da2762bcf889b03&mmweb_appid=wx_webfilehelper.jpg)
-![Photo 7](../photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=6650566866069395845&skey=@crypt_c7361d07_6a7912a03b2a56523da2762bcf889b03&mmweb_appid=wx_webfilehelper.jpg)
-![Photo 8](../photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=6407153397963667357&skey=@crypt_c7361d07_6a7912a03b2a56523da2762bcf889b03&mmweb_appid=wx_webfilehelper.jpg)
-![Photo 9](../photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=933850398220518016&skey=@crypt_c7361d07_6a7912a03b2a56523da2762bcf889b03&mmweb_appid=wx_webfilehelper.jpg)
-![Photo 10](../photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=2743178824102654714&skey=@crypt_c7361d07_6a7912a03b2a56523da2762bcf889b03&mmweb_appid=wx_webfilehelper.jpg)
-![Photo 11](../photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=3468187016024169457&skey=@crypt_c7361d07_6a7912a03b2a56523da2762bcf889b03&mmweb_appid=wx_webfilehelper.jpg)
-![Photo 12](../photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=7257085827032321980&skey=@crypt_c7361d07_6a7912a03b2a56523da2762bcf889b03&mmweb_appid=wx_webfilehelper.jpg)
-![Photo 13](../photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=5785341096327780514&skey=@crypt_c7361d07_6a7912a03b2a56523da2762bcf889b03&mmweb_appid=wx_webfilehelper.jpg)
-![Photo 14](../photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=5074320862026472653&skey=@crypt_c7361d07_6a7912a03b2a56523da2762bcf889b03&mmweb_appid=wx_webfilehelper.jpg)
-![Photo 15](../photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=8126493931685310481&skey=@crypt_c7361d07_6a7912a03b2a56523da2762bcf889b03&mmweb_appid=wx_webfilehelper.jpg)
-![Photo 16](../photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=998521490288871174&skey=@crypt_c7361d07_6a7912a03b2a56523da2762bcf889b03&mmweb_appid=wx_webfilehelper.jpg)
-![Photo 17](../photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=6096206553986512240&skey=@crypt_c7361d07_6a7912a03b2a56523da2762bcf889b03&mmweb_appid=wx_webfilehelper.jpg)
-![Photo 18](../photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=7844656235660459685&skey=@crypt_c7361d07_6a7912a03b2a56523da2762bcf889b03&mmweb_appid=wx_webfilehelper.jpg)
-![Photo 19](../photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=6994475612110803787&skey=@crypt_c7361d07_6a7912a03b2a56523da2762bcf889b03&mmweb_appid=wx_webfilehelper.jpg)
-![Photo 20](../photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=8816015308852747640&skey=@crypt_c7361d07_6a7912a03b2a56523da2762bcf889b03&mmweb_appid=wx_webfilehelper.jpg)
-![Photo 21](../photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=7686306614813480744&skey=@crypt_c7361d07_6a7912a03b2a56523da2762bcf889b03&mmweb_appid=wx_webfilehelper.jpg)
-![Photo 22](../photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=7823065969219672388&skey=@crypt_c7361d07_6a7912a03b2a56523da2762bcf889b03&mmweb_appid=wx_webfilehelper.jpg)
-![Photo 23](../photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=1606954075453892254&skey=@crypt_c7361d07_6a7912a03b2a56523da2762bcf889b03&mmweb_appid=wx_webfilehelper.jpg)
-![Photo 24](../photos/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=6310413858524708123&skey=@crypt_c7361d07_6a7912a03b2a56523da2762bcf889b03&mmweb_appid=wx_webfilehelper.jpg)
-
-</div>
+### UI Design
+- [Farming Therapy UI Design (Figma link)](https://www.figma.com/proto/FQzUH1De4VzhFHOtUhwqvi/Farming-Therapy?node-id=0-1&t=SoPZDrRmCYHeDv5C-1)
 
 ### Architectural Design
 - Participated in various architectural design projects during undergraduate and postgraduate studies.  
