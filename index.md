@@ -30,4 +30,11 @@ A metaverse project focusing on the classic architecture and original plots of t
 
 **Metaverse Address:** [www.spatial.io/s/The-Red-MetaChamber-66a297a573453567813f86eb](https://www.spatial.io/s/The-Red-MetaChamber-66a297a573453567813f86eb)
 
-*Recommend to display by the Spatial application* 
+*Recommend to display by the Spatial application*
+
+#### Project Video
+<div class="video-container">
+  <iframe src="https://drive.google.com/file/d/1xEbWGYLEB5gONDsF0zcCc2zGLkpVm9xT/preview" 
+          allowfullscreen>
+  </iframe>
+</div> 
