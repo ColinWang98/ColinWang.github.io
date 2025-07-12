@@ -1,8 +1,12 @@
 /* 自定义CSS样式修复 */
 
 /* 基础样式 */
-body {
+html {
   background: #f8f9fa;
+}
+
+body {
+  background: #f8f9fa !important;
   margin: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.6;
@@ -16,6 +20,16 @@ html, body {
   height: 100%;
   margin: 0;
   padding: 0;
+  background: #f8f9fa !important;
+}
+
+/* 确保整个页面都有背景色 */
+html {
+  background: #f8f9fa !important;
+}
+
+body {
+  background: #f8f9fa !important;
 }
 
 /* 导航栏样式 */
