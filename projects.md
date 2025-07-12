@@ -23,7 +23,11 @@ A metaverse project focusing on the classic architecture and original plots of t
 ![](images/RedMeta/RedMeta3.jpg)
 
 ### Project Video
-[Watch project video on Google Drive](https://drive.google.com/file/d/1xEbWGYLEB5gONDsF0zcCc2zGLkpVm9xT/view?usp=drive_link)
+<div class="video-container">
+  <iframe src="https://drive.google.com/file/d/1xEbWGYLEB5gONDsF0zcCc2zGLkpVm9xT/preview" 
+          allowfullscreen>
+  </iframe>
+</div>
 
 ### Project Overview
 The project explores how the Metaverse, built upon virtual reality and augmented reality technologies, enables users to transcend the limitations of time and space, allowing for unprecedented forms of spiritual communication and interaction with history. Within this digital realm, people can explore and engage with the past in immersive and meaningful ways, fostering a deeper understanding and appreciation for cultural heritage.
