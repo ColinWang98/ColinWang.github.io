@@ -10,10 +10,10 @@
       </div>
       <div class="author__urls-wrapper">
         <ul class="author__urls">
-          <li>{{ site.author.location }}</li>
-          <li>{{ site.author.email }}</li>
-          <li>{{ site.author.tel }}</li>
-          <li><a href="{{ site.author.orcid }}">ORCID</a></li>
+          <li><i class="fas fa-map-marker-alt"></i> {{ site.author.location }}</li>
+          <li><i class="fas fa-envelope"></i> <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+          <li><i class="fas fa-phone"></i> <a href="tel:{{ site.author.tel }}">{{ site.author.tel }}</a></li>
+          <li><i class="fas fa-id-badge"></i> <a href="{{ site.author.orcid }}" target="_blank">ORCID</a></li>
         </ul>
       </div>
     </div>
