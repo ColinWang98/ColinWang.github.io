@@ -88,14 +88,18 @@ html, body {
 
 /* 主要内容区域 */
 #main {
-  display: flex;
-  flex-direction: row;
-  align-items: stretch;
   max-width: 1200px;
   margin: 0 auto;
   padding: 2em 1em;
-  gap: 2em;
   min-height: calc(100vh - 56px);
+}
+
+.main-container {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  gap: 2em;
+  height: 100%;
 }
 
 /* 侧边栏样式 */
@@ -107,7 +111,9 @@ html, body {
   border-radius: 8px;
   padding: 20px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-  height: fit-content;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
 }
 
 /* 页面内容区域 */
@@ -120,6 +126,7 @@ html, body {
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
   display: flex;
   flex-direction: column;
+  align-self: stretch;
 }
 
 .page__inner-wrap {
@@ -214,16 +221,6 @@ html, body {
 }
 
 /* 确保侧边栏与主内容区域等长 */
-#main {
-  align-items: stretch;
-}
-
-.sidebar {
-  align-self: stretch;
-  display: flex;
-  flex-direction: column;
-}
-
 .profile_box {
   flex: 1;
   display: flex;
@@ -308,8 +305,11 @@ a:hover {
 /* 响应式设计 */
 @media (max-width: 800px) {
   #main {
-    flex-direction: column;
     padding: 1em 0.5em;
+  }
+  
+  .main-container {
+    flex-direction: column;
     align-items: stretch;
   }
   
