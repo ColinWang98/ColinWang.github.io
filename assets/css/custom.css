@@ -18,10 +18,6 @@ html, body {
   padding: 0;
 }
 
-#main {
-  min-height: calc(100vh - 56px); /* 减去导航栏高度 */
-}
-
 /* 导航栏样式 */
 .masthead {
   position: sticky;
