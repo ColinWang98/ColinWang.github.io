@@ -3,25 +3,24 @@ permalink: /
 title: "Home"
 ---
 
-# Welcome
+# Wang Yao
 
-Welcome to the homepage of Wang Yao.
+A passionate and creative HCI researcher focused on virtual environments and urban culture restoration.
 
-A passionate and creative HCI researcher.
+Currently working as a Research Assistant with Prof. Li Chen Richard at The Hong Kong Polytechnic University, where I completed my Master's degree in Sustainable Urban Development (SUD).
 
-Graduated from The Hong Kong Polytechnic University with a Master's degree in Sustainable Urban Development (SUD). Currently working as a Research Assistant with Prof. Li Chen Richard at PolyU.
+## Research Interests
+- **HCI & XR**: Human-Computer Interaction and Extended Reality
+- **Urban Culture**: Digital preservation and restoration of cultural heritage
+- **Virtual Environments**: Immersive experiences and spatial computing
+- **Metaverse**: Social interaction and cultural expression in digital spaces
 
-**Research Interests:** HCI, XR, Urban Culture, Restoration, Virtual Environments
-
-**Currently seeking PhD opportunities** in related fields.
-
-**Personal Interests:** Photography, Music, and Literature
-
-Explore the sections above to learn more about my education, research, work experience, activities, awards, projects, and creative works.
-
----
+## Current Focus
+Seeking PhD opportunities in HCI, XR, and related fields to advance research in virtual environments and cultural heritage preservation.
 
 ## Featured Projects
+
+---
 
 ### VR Breathing Training Platform
 Developed immersive VR environments for respiratory therapy, integrating biofeedback and interactive design.
